@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cocina_tu_mismo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_extras">ExtrasActivity</string>
+    <string name="title_activity_recetas">RecetasActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Alacena">Alacena</string>
+    <string name="Refrigerador">Refrigerador</string>
+    <string name="Recetas">Recetas</string>
+    <string name="Extras">Extras</string>
+    <string name="Contacto">Contáctanos</string>
+    <string name="Volver">Volver a ppal</string>
+    <string name="Bienvenido">Bienvenido"</string>
+    <string name="Ir">Ir a recetas</string>
+</resources>
